@@ -1,0 +1,16 @@
+.texto {
+    padding: 10px 150px;
+    justify-content: space-between;
+    height: var(--h-historia);
+    text-align: justify;
+}
+
+.title_historia{
+    text-align: center;
+}
+
+@media (max-width: 600px){
+    .title_historia {
+        text-align: center;
+    }
+}
